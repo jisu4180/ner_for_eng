@@ -2,6 +2,8 @@
 
 ## Entity Tagger (BiLSTM)
 
+### 이 디렉토리는 투빅스 9기 프로젝트를 위함.
+
 ### env
     * Python 3.6.1
     * Pytorch 0.6.0
